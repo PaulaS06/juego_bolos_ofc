@@ -1,11 +1,11 @@
 class JuegoDeBolos:
-    def __init__(self):
-        self.frames: list = []
-        self.actual_frame: int = 0
-        pass
+def __init__(self):
+    self.frames: list = []
+    self.actual_frame: int = 0
+    pass
 
-    def tirar_bola(self, pins: int):
-
+def tirar_bola(self, pins: int):
+    pass
 
 
 def puntaje():
