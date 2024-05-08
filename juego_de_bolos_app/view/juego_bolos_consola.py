@@ -1,9 +1,9 @@
-from juego_de_bolos_app.model.juego_bolos import JuegoDeBolos
+from juego_de_bolos_app.model.juego_bolos import BowlingGame
 
 
 class Consola:
-    def __init__(self, bolos: JuegoDeBolos):
-        self.bolos: JuegoDeBolos = bolos
+    def __init__(self, bolos: BowlingGame):
+        self.bolos: BowlingGame = bolos
 
     @staticmethod
     def mostrar_inicio():
