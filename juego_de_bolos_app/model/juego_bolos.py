@@ -5,8 +5,7 @@ class JuegoDeBolos:
         pass
 
     def tirar_bola(self, pins: int):
-        if self.actual_frame < 10:
-            pass
+
 
 
 def puntaje():
