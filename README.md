@@ -23,4 +23,4 @@ Por ejemplo:
 
 ### Modelo del mundo:
 
-![Modelo del mundo de la aplicación Bolos](assets/Juego_bolos.jpg)
+![Modelo del mundo de la aplicación Bolos](assets/bolos_uml.jpg)
