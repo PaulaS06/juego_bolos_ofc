@@ -56,6 +56,7 @@ class BowlingGame:
     def __init__(self):
         self.frames: list[Frame] = []
         self.__init_frames()
+        self.current_frame_index:int = 0
 
     def __init_frames(self):
         frame = NormalFrame()
